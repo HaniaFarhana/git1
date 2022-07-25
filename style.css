@@ -1,0 +1,48 @@
+.cat{
+    margin: 60px;
+    background-color: rgb(58, 143, 143);
+}
+h1{
+    background-color: black;
+    color: white;
+   text-align: center;
+   margin-bottom: -10px;
+
+}
+p{
+    text-align: center;
+    margin-left: -10px;
+}
+.image{
+    text-align: center;
+}
+img{
+    width: 600px;
+    height: 400px;
+    text-align: center;
+}
+iframe{
+    margin-top: 100px;
+}
+.betam{
+    margin: -6px;
+}
+.betan{
+    margin: -10px;
+}
+.betar{
+    margin: -6px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+.btn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: goldenrod;
+    color: white;
+    text-decoration: none;
+}
